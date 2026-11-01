@@ -97,5 +97,8 @@ L'objectif est de rester sous 3 % : il n'est pas atteint à la dernière mesure.
 Les choix techniques, les risques et les critères de succès sont décrits dans [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
 
 ---
+<div align="center">
 
-**Author:** [Liam Seddaoui](https://liamseddaoui.com), AI Platform Engineer · LLMOps · Agents · Build & Run
+**Author:** [Liam Seddaoui](https://liamseddaoui.com), AI Platform Engineer · LLMOps · Agents · Build & Run — voir [LICENSE](LICENSE)
+
+</div>
